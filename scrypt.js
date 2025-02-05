@@ -5,3 +5,4 @@ console.log(valor)
 }
 
 boton.addEventListener("click", agregar )
+console.log("Hola Silvio")
